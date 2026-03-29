@@ -1,0 +1,8 @@
+a = int(input("Enter a number :- "))
+b = int(input("Enter another number :- "))
+print("Sum =", a+b)
+print("Sub =", a-b)
+print("Mul =", a*b)
+print("Div =", a/b)
+print("Quotient =", a//b)
+print("Remainder =", a%b)
